@@ -23,9 +23,9 @@
 
 #include "thinger/thinger.h"
 
-#define USER_ID             "YOUR_USER_ID"
-#define DEVICE_ID           "YOUR_DEVICE_ID"
-#define DEVICE_CREDENTIAL   "YOUR_DEVICE_CREDENTIAL"
+#define USER_ID             "Calangoee"
+#define DEVICE_ID           "temp_01"
+#define DEVICE_CREDENTIAL   "i0z27oqn3lN1"
 
 int main(int argc, char *argv[])
 {
